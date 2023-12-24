@@ -1,4 +1,4 @@
-# name; Yuhua Huang
+
 #3/18/23
 #to define a Graph data structure and implement breadth-first and depth-first search algorithms on that graph.
 
