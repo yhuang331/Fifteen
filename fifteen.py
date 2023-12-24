@@ -1,4 +1,4 @@
-# name; Yuhua Huang
+
 #3/18/23
 #a Fifteen class with various methods for initializing the game, shuffling the tiles, updating the board, checking for valid moves, and checking if the game is solved. 
 
