@@ -1,4 +1,4 @@
-# name; Yuhua Huang
+
 #3/18/23
 # create buttons with labels that can be changed when the user clicks on them
 
