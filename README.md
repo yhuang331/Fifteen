@@ -29,15 +29,15 @@ The `game.py` module serves as the main program for the Puzzle Fifteen game. Ple
 Feel free to extend and enhance the code as needed. Contributions and improvements are welcome.
 
 ## Side Notes 
-### Vertex Connections
-For example:
-- Vertex 1 is connected to vertices 2 and 5.
-- Vertex 2 is connected to vertices 1, 3, and 6.
-- Vertex 6 is connected to vertices 2, 5, 7, and 10.
+Vertex Connections
+    For example:
+    - Vertex 1 is connected to vertices 2 and 5.
+    - Vertex 2 is connected to vertices 1, 3, and 6.
+    - Vertex 6 is connected to vertices 2, 5, 7, and 10.
 
-## Graph Implementation
-The graph can be implemented using various methods, including parallel structures with arrays, lists, or classes such as `Vertex` and `Graph`. Different implementations are explored to represent the adjacency list and structure of the graph.
+Graph Implementation
+    - The graph can be implemented using various methods, including parallel structures with arrays, lists, or classes such as `Vertex` and `Graph`. Different implementations are explored to represent the adjacency list and structure of the graph.
 
-## Adjacency List
-All vertices are represented as a list, and their adjacency list is a nested list indicating the connections between vertices.
+Adjacency List
+    - All vertices are represented as a list, and their adjacency list is a nested list indicating the connections between vertices.
 
